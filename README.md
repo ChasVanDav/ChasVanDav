@@ -30,14 +30,6 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 
 ---
 
-## 📌 GitHub Highlights
-### 📌 Pinned Repositories
-🔹 [Korean Recipe App 🍜](https://github.com/ChasVanDav/korean-recipe-app) - A web app for selecting Korean recipes and watching **YouTube tutorials**.  
-🔹 [Budget Blog App 💰](https://github.com/ChasVanDav/budget-blog) - Track spending with **exchange rates and weather info**.  
-🔹 [Portfolio Website 🌐](https://github.com/ChasVanDav/portfolio) - Showcasing my **projects, creativity, and skills** .
-
----
-
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chasityvdavis/)
 
