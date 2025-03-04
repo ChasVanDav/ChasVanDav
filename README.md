@@ -5,7 +5,7 @@
 console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack developer.");
 ```
 
-🌍 Originally from Brooklyn, NY, I bring a unique blend of **tech, business, and language expertise** to the engineering world. Before transitioning into software engineering, I worked in **education, language services, and business**, where I developed strong **analytical, communication, and problem-solving skills**. My experience working across different industries gave me a unique perspective on how technology can bridge gaps and improve efficiency. This curiosity ultimately led me to pursue a career in software development. I love building impactful applications and making tech more **accessible** for everyone.
+🗽 Originally from Brooklyn, NY, I bring a unique blend of **tech, business, and language expertise** to the engineering world. Before transitioning into software engineering, I worked in **education, language services, and business**, where I developed strong **analytical, communication, and problem-solving skills**. My experience working across different industries gave me a unique perspective on how technology can bridge gaps and improve efficiency. This curiosity ultimately led me to pursue a career in software development. I love building impactful applications and making tech more **accessible** for everyone.
 
 ## 🔧 Tech Stack
 
@@ -26,6 +26,7 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
