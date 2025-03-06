@@ -32,6 +32,8 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=ChasVanDav&color=blue)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChasVanDav&theme=dark)
 
 
