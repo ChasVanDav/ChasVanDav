@@ -17,7 +17,7 @@ console.log("Hello, world! I'm Vanessa.");
 ![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=purple)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=social&logo=jira&logoColor=purple)
 
-## 📧
+# 💬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=social&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/chasityvdavis/)
 
 From being astute abroad to being highly efficient at home.
