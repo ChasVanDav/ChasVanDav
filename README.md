@@ -1,11 +1,11 @@
-# 👩🏽‍💻 ✨
+# 👩🏽‍💻 ✨ From being astute abroad to being highly efficient at home.
 
 
 ```js
 console.log("Hello, world! I'm Vanessa.");
 ```
 
-From being astute abroad to being highly efficient at home.
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=purple)
