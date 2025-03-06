@@ -10,7 +10,7 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 ## 🔧 Tech Stack
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=pink)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=social&logo=flask&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black)
