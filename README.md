@@ -5,7 +5,7 @@
 console.log("Hello, world! I'm Vanessa.");
 ```
 
-🗽 Originally from Brooklyn, NY, I bring a unique blend of **tech, business, and language expertise** to the engineering world. Before transitioning into software engineering, I worked in **education, language services, and business**, where I developed strong **analytical, communication, and problem-solving skills**. My experience working across different industries gave me a unique perspective on how technology can bridge gaps and improve efficiency. This curiosity ultimately led me to pursue a career in software development. I love building impactful applications and making tech more **accessible** for everyone.
+From being astute abroad to being highly efficient at home.
 
 ## 🔧 Tech Stack
 
