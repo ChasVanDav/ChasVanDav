@@ -1,5 +1,6 @@
 # 👩🏽‍💻 ✨
 
+![🔥 Hot Tech](https://img.shields.io/badge/🔥%20Hot%20Tech-React-blue?style=for-the-badge)
 
 ```js
 console.log("Hello, world! I'm Vanessa.");
