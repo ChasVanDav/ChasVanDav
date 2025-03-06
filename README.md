@@ -32,6 +32,9 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChasVanDav&theme=dark)
+
+
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chasityvdavis/)
 
