@@ -5,9 +5,6 @@
 console.log("Hello, world! I'm Vanessa.");
 ```
 
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=purple)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=social&logo=flask&logoColor=purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=purple)
@@ -17,8 +14,7 @@ console.log("Hello, world! I'm Vanessa.");
 ![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=purple)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=social&logo=jira&logoColor=purple)
 
-# 💬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=social&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/chasityvdavis/)
+# 💬 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=social&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/chasityvdavis/)
 
-From being astute abroad to being highly efficient at home.
+"From being astute abroad to being highly efficient at home."
 
