@@ -1,4 +1,4 @@
-# 👩🏽‍💻 👾Code,  🌏Curiosity & 🎨Creativity  ✨
+# 👩🏽‍💻 ✨
 
 
 ```js
@@ -34,6 +34,6 @@ console.log("Hello, world! I'm Vanessa.");
 
 
 
-## 📫 Get in Touch
+## 📧 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=social&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/chasityvdavis/)
 
