@@ -27,14 +27,11 @@ console.log("Hello, world! I'm Vanessa, a passionate and adaptable full-stack de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=social&logo=rest&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChasVanDav&color=blue)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChasVanDav&theme=dark)
 
 
 ## 📫 Get in Touch
