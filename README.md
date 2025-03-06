@@ -1,6 +1,6 @@
 # 👩🏽‍💻 ✨
 
-![🔥 Hot Tech](https://img.shields.io/badge/🔥%20Hot%20Tech-React-blue?style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&color=36BCF7&center=false&vCenter=false&lines=Hi+there!+I'm+a+Full-Stack+Developer;Building+cool+AI-powered+apps;Open-source+enthusiast+🚀)
 
 ```js
 console.log("Hello, world! I'm Vanessa.");
