@@ -4,11 +4,11 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=87CEEB&bg_color=000000&text_color=ffffff&icon_color=c580eb&hide_border=true&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=87CEEB&bg_color=000000&text_color=ffffff&icon_color=88CEEB&hide_border=true&langs_count=8"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&bg_color=ffd6e6&text_color=7c2ae8&title_color=ff16a5&icon_color=ff4c1b&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&bg_color=ffd6e6&text_color=7c2ae8&title_color=ff16a5&icon_color=89CEEB&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true" />
