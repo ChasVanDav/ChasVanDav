@@ -26,4 +26,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasVanDav" />
 </picture>
 
-## &copy; Since 2024
+## Developing &copy; Since 2024
