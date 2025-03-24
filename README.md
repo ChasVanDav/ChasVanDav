@@ -20,7 +20,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasVanDav&show_icons=true&langs_count=8&hide_progress=true&bg_color=ffd6e6&text_color=7c2ae8&title_color=ff16a5&icon_color=ff4c1b&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasVanDav&show_icons=true&langs_count=8&hide_progress=false&bg_color=ffd6e6&text_color=7c2ae8&title_color=ff16a5&icon_color=ff4c1b&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChasVanDav" />
