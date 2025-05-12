@@ -1,11 +1,11 @@
 # 👩🏽‍💻 ✨
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=7000&color=FFFFFF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette+Code&size=18&duration=7000&color=FFFFFF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=FFD700&hide_border=true&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=FFD700&hide_border=false&langs_count=4"
   media="(prefers-color-scheme: dark)"
 />
 <source
