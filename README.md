@@ -1,6 +1,6 @@
 # 👩🏽‍💻 ✨
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&color=B67233&center=true&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&color=B67233&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
 
 <picture>
 <source
