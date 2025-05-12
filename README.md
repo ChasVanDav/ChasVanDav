@@ -1,7 +1,8 @@
 # 👩🏽‍💻 ✨
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&size=18&duration=7000&color=FFFFFF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=7000&color=FFFFFF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
+
 
 <picture>
 <source
