@@ -2,7 +2,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=7000&color=FFFFFF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
-<br/>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=FFD700&hide_border=false&langs_count=4"
