@@ -1,15 +1,15 @@
-# 👩🏽‍💻 ✨
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=7000&color=8B008B&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
 
+# 👩🏽‍💻 ✨
+<br/>
+<br/>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=0ea8ff&bg_color=000000&text_color=ffffff&icon_color=39FF14&hide_border=false&langs_count=4"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&bg_color=ffd6e6&text_color=2A52BE&title_color=FFE4C4&icon_color=FFE4C4&hide_border=false"
+  srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=0ea8ff&bg_color=111111&text_color=000000&icon_color=39FF14&hide_border=false&langs_count=4"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true" />
