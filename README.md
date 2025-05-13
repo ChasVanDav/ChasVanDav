@@ -2,7 +2,7 @@
 
 # 👩🏽‍💻 ✨
 <br/>
-<br/>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true&title_color=0ea8ff&bg_color=000000&text_color=ffffff&icon_color=39FF14&hide_border=false&langs_count=4"
@@ -14,7 +14,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ChasVanDav&show_icons=true" />
 </picture>
-<br/>
 <br/>
 
 <br/>
@@ -31,7 +30,5 @@
 [Credit: GitHub Profile Inspiration](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 
 <br/>
-<br/>
-
 
 #### Developing &copy; Since 2024 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
