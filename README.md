@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=7000&color=8B008B&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=7000&color=BF40BF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
 
 # 👩🏽‍💻 ✨
 <br/>
