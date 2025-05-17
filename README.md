@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=10000&color=BF40BF&center=false&vCenter=false&lines=Hello+world!+I'm+Vanessa.;I'm+a+Full+Stack+Developer.;I+love+building+cool+apps+.+.+.;.+.+.+that+people+enjoy+using.;If+it's+travel-related+even+better!)
-
+<!--
 <br/>
 
 <picture>
@@ -18,7 +18,9 @@
 <br/>
 Developing &copy; Since 2024 
 <br/>
+
 <br/>
+-->
 <br/>
 <div>
  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50">
